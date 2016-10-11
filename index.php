@@ -7,12 +7,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html>
 <head>
-<title>Modern Shoppe </title>
+<title>Neo Drugs </title>
 <!-- for-mobile-apps -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Modern Shoppe Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
-Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+<meta name="keywords" content="Neo Drugs Pharmaceuticals" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 		function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!--//for-mobile-apps -->
@@ -59,17 +58,17 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="top-header navbar navbar-default"><!--header-one-->
 			<div class="container">
 				<div class="nav navbar-nav wow fadeInLeft animated" data-wow-delay=".5s">
-					<p>Welcome to Modern Shoppe</p>
+					<p>Welcome to Neo Drugs</p>
 				</div>
 				<div class="nav navbar-nav navbar-right social-icons wow fadeInRight animated" data-wow-delay=".5s">
-					<ul>
+					<!-- <ul>
 						<li><a href="#"> </a></li>
 						<li><a href="#" class="pin"> </a></li>
 						<li><a href="#" class="in"> </a></li>
 						<li><a href="#" class="be"> </a></li>
 						<li><a href="#" class="you"> </a></li>
 						<li><a href="#" class="vimeo"> </a></li>
-					</ul>
+					</ul> -->
 				</div>
 				<div class="clearfix"> </div>
 			</div>
@@ -78,12 +77,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="container">
 				<div class="nav navbar-nav header-two-left">
 					<ul>
-						<li><i class="glyphicon glyphicon-earphone" aria-hidden="true"></i>+919893098522</li>
-						<li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i><a href="mailto:hisiddharthmehra@gmail.com">sid@gmail.com</a></li>			
+						<li><i class="glyphicon glyphicon-earphone" aria-hidden="true"></i>+919300130936</li>
+						<li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i><a href="mailto:hisiddharthmehra@gmail.com">neodrugs@gmail.com</a></li>			
 					</ul>
 				</div>
 				<div class="nav navbar-nav logo wow zoomIn animated" data-wow-delay=".7s">
-					<h1><a href="index.html">Modern <b>Shoppe</b><span class="tag">Pharmaceuticals</span> </a></h1>
+					<h1><a href="index.php"><img src='images/sid_images/logo.png' width='200' height='100'><span class="tag">Pharmaceuticals</span> </a></h1>
 				</div>
 				<div class="nav navbar-nav navbar-right header-two-right">
 					<div class="header-right my-account">
@@ -118,18 +117,17 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<!--navbar-header-->
 					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 						<ul class="nav navbar-nav top-nav-info">
-							<li><a href="index.html" class="active">Home</a></li>
+							<li><a href="index.php" class="active">Home</a></li>
 							<li>
-								<a href="products.html">Products</a>
+								<a href="products.php">Products</a>
 							</li>
 						
-							<li><a href="#">Special Offers</a></li>
 						</ul> 
 						<div class="clearfix"> </div>
 						<!--//navbar-collapse-->
 						<header class="cd-main-header">
 							<ul class="cd-header-buttons">
-								<li><a class="cd-search-trigger" href="#cd-search"> <span></span></a></li>
+								<!-- <li><a class="cd-search-trigger" href="#cd-search"> <span></span></a></li> -->
 							</ul> <!-- cd-header-buttons -->
 						</header>
 					</div>
@@ -144,139 +142,182 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		</div>
 	</div>
 	<!--//header-->
-	<!--breadcrumbs-->
-	<div class="breadcrumbs">
+	<!--banner-->
+	<div class="banner">
 		<div class="container">
-			<ol class="breadcrumb breadcrumb1 animated wow slideInLeft" data-wow-delay=".5s">
-				<li><a href="index.html"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>Home</a></li>
-				<li class="active">Products</li>
-			</ol>
+			<div class="banner-text">			
+				<!-- <div class="col-sm-5 banner-left wow fadeInLeft animated" data-wow-delay=".5s">			
+					<h2>On Entire Fashion range</h2>
+					<h3>Coming Soon </h3>
+					<h4>Our New Designs</h4>
+					<div class="count main-row">
+						<ul id="example">
+							<li><span class="hours">00</span><p class="hours_text">Hours</p></li>
+							<li><span class="minutes">00</span><p class="minutes_text">Minutes</p></li>
+							<li><span class="seconds">00</span><p class="seconds_text">Seconds</p></li>
+						</ul>
+							<div class="clearfix"> </div>
+							<script type="text/javascript" src="js/jquery.countdown.min.js"></script>
+							<script type="text/javascript">
+								$('#example').countdown({
+									date: '12/24/2020 15:59:59',
+									offset: -8,
+									day: 'Day',
+									days: 'Days'
+								}, function () {
+									alert('Done!');
+								});
+							</script>
+					</div>
+
+				</div> -->
+				<!-- <center>
+				<div class="col-sm-7 banner-right wow fadeInRight animated" data-wow-delay=".5s" id="slider_div">			
+					<section class="slider grid">
+						<div class="flexslider">
+							<ul class="slides">
+								<li>
+									<h4>-30%</h4>
+									<img src="images/b1.png" alt="">
+								</li>
+								<li>
+									<h4>-25%</h4>
+									<img src="images/b2.png" alt="">
+								</li>
+								<li>
+									<h4>-32%</h4>
+									<img src="images/b3.png" alt="">
+								</li>
+							</ul>
+						</div>
+					</section>
+					<!--s FlexSlider-->
+					<script defer src="js/jquery.flexslider.js"></script>
+					<script type="text/javascript">
+						$(window).load(function(){
+						  $('.flexslider').flexslider({
+							animation: "pagination",
+							start: function(slider){
+							  $('body').removeClass('loading');
+							}
+						  });
+						});
+					</script>
+					<!--End-slider-script-->
+				</div>
+				</center>
+				<div class="clearfix"> </div>
+			</div>
+		</div>
+	</div>			
+	<!--//banner-->
+	<!--new-->
+	<div class="new">
+		<div class="container">
+			<div class="title-info wow fadeInUp animated" data-wow-delay=".5s">
+				<h3 class="title">New <span>Arrivals</span></h3>
+				<p>Information on new products available now </p>
+			</div>
+			<div class="new-info">
+				<?php include 'php/main.php'; ?>
+				<?php $count=0;?>
+				<?php foreach($products as $key=>$value): ?>
+				<?php $count++; ?>
+				<?php if ($count>4 ){
+					break;
+				}
+				?>
+				<div class="col-md-3 new-grid simpleCart_shelfItem wow flipInY animated" data-wow-delay=".5s">
+					<div class="new-top">
+						<a href="#"><img src="images/sid_images/products/<?php echo $key."_1.jpg"; ?>" class="img-responsive" alt="" width='200' height='300'/></a>
+						<div class="new-text">
+							<ul>
+								<li><a href="single.php?product=<?php echo $key?>">Quick View </a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="new-bottom">
+						<?php $key=explode('_',$key);?>
+						<h5><a class="name" href="single.php?product=<?php implode('_',$key); ?>"><?php echo implode(" ",array_map("ucwords",$key)); ?></a></h5>
+					</div>
+				</div>
+				<?php endforeach; ?>
+				<div class="clearfix"> </div>
+			</div>
+		</div>
+	</div>		
+	<!--//new-->
+	<!--gallery-->
+
+	<!--//gallery-->
+	<!--trend-->
+	<div class="trend wow zoomIn animated" data-wow-delay=".5s">
+		<div class="container">
+			<div class="trend-info">
+				<section class="slider grid">
+					<div class="flexslider trend-slider">
+						<ul class="slides">
+							<li>
+								<div class="col-md-5 trend-left">
+									<img src="images/tulsi.jpeg" alt=""/>
+								</div>
+								<div class="col-md-7 trend-right">
+									<h4>ANNOUNCEMENTS</h4>
+									<p>Coming Soon...</p>
+								</div>
+								<div class="clearfix"></div>
+							</li>
+							<!-- <li>
+								<div class="col-md-5 trend-left">
+									<img src="images/honey.jpeg" alt=""/>
+								</div>
+								<div class="col-md-7 trend-right">
+									<h4> HEALTH BENIFITS <span> OF HONEY</span></h4>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tempus, justo ac volutpat vestibulum, dolor massa pharetra nunc, nec facilisis lectus nulla a tortor. Duis ultrices nunc a nisi malesuada suscipit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam eu bibendum felis. Sed viverra dapibus tincidunt.</p>
+								</div>
+								<div class="clearfix"></div>
+							</li>
+							<li>
+								<div class="col-md-5 trend-left">
+									<img src="images/neem.jpeg" alt=""/>
+								</div>
+								<div class="col-md-7 trend-right">
+									<h4>HEALTH BENIFITS<span> OF NEEM</span></h4>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tempus, justo ac volutpat vestibulum, dolor massa pharetra nunc, nec facilisis lectus nulla a tortor. Duis ultrices nunc a nisi malesuada suscipit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam eu bibendum felis. Sed viverra dapibus tincidunt.</p>
+								</div>
+								<div class="clearfix"></div>
+							</li>
+							<li>
+								<div class="col-md-5 trend-left">
+									<img src="images/amla.jpeg" alt=""/>
+								</div>
+								<div class="col-md-7 trend-right">
+									<h4>HEALTH BENIFITS<span> OF AMLA</span></h4>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tempus, justo ac volutpat vestibulum, dolor massa pharetra nunc, nec facilisis lectus nulla a tortor. Duis ultrices nunc a nisi malesuada suscipit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam eu bibendum felis. Sed viverra dapibus tincidunt.</p>
+								</div>
+								<div class="clearfix"></div>
+							</li> -->
+						</ul>
+					</div>
+				</section>
+			</div>
 		</div>
 	</div>
-	<!--//breadcrumbs-->
-	<!--products-->
-	<div class="products">	 
-		<div class="container">
-			<div class="col-md-9 product-model-sec">
-				<div class="product-grids simpleCart_shelfItem wow fadeInUp animated" data-wow-delay=".5s">
-					<div class="new-top">
-						<a href="single.html"><img src="images/item_5.png" class="img-responsive" alt=""/></a>
-						<div class="new-text">
-							<ul>
-								<li><a href="jamun_karela.html">Quick View </a></li>
-								<li><input type="number" class="item_quantity" min="1" value="1"></li>
-								<li><a class="item_add" href=""> Add to cart</a></li>
-							</ul>
-						</div>
-					</div>
-					<div class="new-bottom">
-						<h5><a class="name" href="single.html">Jamun Karela </a></h5>
-						<div class="rating">
-							<span class="on">☆</span>
-							<span class="on">☆</span>
-							<span class="on">☆</span>
-							<span class="on">☆</span>
-							<span>☆</span>
-						</div>
-						<div class="ofr">
-							<p class="pric1"><del>$2000.00</del></p>
-							<p><span class="item_price">$500.00</span></p>
-						</div>
-					</div>
-				</div>
-				<div class="product-grids product-grids-mdl simpleCart_shelfItem wow fadeInUp animated" data-wow-delay=".7s">
-					<div class="new-top">
-						<a href="zynolac.html"><img src="images/item_6.png" class="img-responsive" alt=""/></a>
-						<div class="new-text">
-							<ul>
-								<li><a href="zynolac.html">Quick View </a></li>
-								<li><input type="number" class="item_quantity" min="1" value="1"></li>
-								<li><a class="item_add" href=""> Add to cart</a></li>
-							</ul>
-						</div>
-					</div>
-					<div class="new-bottom">
-						<h5><a class="name" href="zynolac.html">Zynolac-DS</a></h5>
-						<div class="rating">
-							<span class="on">☆</span>
-							<span class="on">☆</span>
-							<span class="on">☆</span>
-							<span>☆</span>
-							<span>☆</span>
-						</div>
-						<div class="ofr">
-							<p class="pric1"><del>$1200.00</del></p>
-							<p><span class="item_price">$800.00</span></p>
-						</div>
-					</div>
-				</div>
-				<div class="product-grids simpleCart_shelfItem wow fadeInUp animated" data-wow-delay=".9s">
-					<div class="new-top">
-						<a href="mintocid.html"><img src="images/item_7.png" class="img-responsive" alt=""/></a>
-						<div class="new-text">
-							<ul>
-								<li><a href="mintocid.html">Quick View </a></li>
-								<li><input type="number" class="item_quantity" min="1" value="1"></li>
-								<li><a class="item_add" href=""> Add to cart</a></li>
-							</ul>
-						</div>
-					</div>
-					<div class="new-bottom">
-						<h5><a class="name" href="mintocid.html">Mintocid</a></h5>
-						<div class="rating">
-							<span class="on">☆</span>
-							<span class="on">☆</span>
-							<span class="on">☆</span>
-							<span class="on">☆</span>
-							<span>☆</span>
-						</div>
-						<div class="ofr">
-							<p class="pric1"><del>$570.00</del></p>
-							<p><span class="item_price">$200.00</span></p>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-3 rsidebar">
-				<div class="rsidebar-top">
-					<div class="sidebar-row">
-						<h4>Filter by Herb</h4>
-						<div class="row row1 scroll-pane">
-							<label class="checkbox"><input type="checkbox" name="checkbox"><i></i>Tulsi</label>
-							<label class="checkbox"><input type="checkbox" name="checkbox"><i></i>Neem</label>
-							<label class="checkbox"><input type="checkbox" name="checkbox"><i></i>Amla</label>
-							<label class="checkbox"><input type="checkbox" name="checkbox"><i></i>Honey</label>
-					</div>
-					<div class="sidebar-row">
-						<h4>Filter by Brand</h4>
-						<div class="row row1 scroll-pane">
-							<label class="checkbox"><input type="checkbox" name="checkbox" checked=""><i></i>Herbal India</label>
-							<label class="checkbox"><input type="checkbox" name="checkbox"><i></i>Other</label>
-						</div>
-					</div>			 
-				</div>
-			
-			</div>
-			<div class="clearfix"> </div>
-		</div>
-	</div>
-	<!--//products-->
+	<!--//trend-->
 	<!--footer-->
 	<div class="footer">
 		<div class="container">
 			<div class="footer-info">
 				<div class="col-md-4 footer-grids wow fadeInUp animated" data-wow-delay=".5s">
-					<h4 class="footer-logo"><a href="index.html">Modern <b>Shoppe</b> <span class="tag">Pharmaceuticals </span> </a></h4>
-					<p>© 2016 Modern Shoppe . All rights reserved | Design by <a href="http://w3layouts.com" target="_blank">W3layouts</a></p>
+					<h4 class="footer-logo"><a href="index.html">NEO DRUGS <span class="tag">Pharmaceuticals  </span> </a></h4>
+					<p>© 2016 Neo Drugs . All rights reserved | Design by <a href="http://w3layouts.com" target="_blank">W3layouts</a></p>
 				</div>
 				<div class="col-md-4 footer-grids wow fadeInUp animated" data-wow-delay=".7s">
 					<h3>Popular</h3>
 					<ul>
 						<li><a href="#">About Us</a></li>
-						<li><a href="products.html">new</a></li>
+						<li><a href="products.html">Products</a></li>
 						<li><a href="#">Contact Us</a></li>
-						<li><a href="#">FAQ</a></li>
-						<li><a href="#">Wishlist</a></li>
 					</ul>
 				</div>
 				<div class="col-md-4 footer-grids wow fadeInUp animated" data-wow-delay=".9s">
@@ -291,18 +332,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			</div>
 		</div>
 	</div>
-	<!--//footer-->			
-	<!-- the jScrollPane script -->
-	<script type="text/javascript" src="js/jquery.jscrollpane.min.js"></script>
-			<script type="text/javascript" id="sourcecode">
-				$(function()
-				{
-					$('.scroll-pane').jScrollPane();
-				});
-			</script>
-	<!-- //the jScrollPane script -->
-	<script type="text/javascript" src="js/jquery.mousewheel.js"></script>
-	<!-- the mousewheel plugin -->
+	<!--//footer-->		
 	<!--search jQuery-->
 	<script src="js/main.js"></script>
 	<!--//search jQuery-->
