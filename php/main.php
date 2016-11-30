@@ -1,5 +1,9 @@
 <?php
 $products = array(
+        'tulsi_neem_giloy_advantage'=>array(3,'Perfect blood purifier','500mL'),
+        'neem_jamun'=>array(3,'Regulates problems caused due to Diabetes and effective for skin diseases','500mL'),
+	'amla_alovera_advantage'=>array(3,'Effective for skin diseases, gas and constipation','500mL'),
+        'honeyqor_cough_syrup'=>array(3,'Cough remedy and effective for other respiratory problems','100mL'),
 	'alovera_advantage'=>array(3,'For increasing immunity & improving digestive system','450mL'),
 	'easy_fit_fat_reduce'=>array(3,'For reducing unwanted Fat & Obesity','450mL'),
 	'markus_cream'=>array(2,'Anti Aging, Anti Marks & Anti Wrinkle Cream','25g'),
